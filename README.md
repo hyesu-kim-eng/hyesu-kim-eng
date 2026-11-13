@@ -21,15 +21,24 @@ DL E&C · Plant Business Division | **Jan 2023 — Present**
 
 **Data & AI Workflow**
 
-![Palantir Foundry, SQL, Python](./assets/stack-data.svg)
+![Palantir Foundry](https://img.shields.io/badge/Palantir_Foundry-101113?style=flat-square&logo=palantir&logoColor=white)
+![SQL](./assets/badge-sql.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Instrumentation / Control / Plant Design**
 
-![AutoCAD, Navisworks, Smart 3D, Control Builder](./assets/stack-engineering.svg)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-087F8C?style=flat-square&logo=autodesk&logoColor=white)
+![Smart 3D](./assets/badge-smart3d.svg)
+![Control Builder](./assets/badge-control-builder.svg)
 
 **Application Development & Deployment**
 
-![C sharp, JavaScript, ASP.NET Core, Streamlit, IIS](./assets/stack-application.svg)
+![C sharp](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![IIS](./assets/badge-iis.svg)
 
 ---
 
