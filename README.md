@@ -1,19 +1,19 @@
 # Hi, I'm Hyesu Kim 👋
 
-![Pixel illustration of instrumentation, control and connected engineering data](./assets/engineering-banner.svg)
+![Tag-to-controller signal path and an engineering ontology, illustrated in lavender pixel art](./assets/engineering-banner.svg)
 
 **Instrumentation & Control Engineer · Engineering Data & AI**<br>
-계장·제어설계 경험을 바탕으로, 설계 데이터와 AI를 실제 업무에 연결합니다.<br>
-DL이앤씨 · 플랜트사업본부 · 계장설계 엔지니어 / 사원 | **2023.01 — Present**
+Connecting instrumentation and control engineering with data, AI, and practical automation.<br>
+DL E&C · Plant Business Division | **Jan 2023 — Present**
 
 ---
 
 ### 🛠️ Core Focus Areas
 
-- **Instrumentation & Control Engineering** — 제어시스템 Architecture·Logic 설계, Instrument·Package Engineering 및 HW/SW FAT.
-- **Engineering Data & Ontology** — 설계 데이터를 정규화하고, Tag·설비·도면·문서·Alarm을 관계 모델로 연결.
-- **AI / ML in Engineering** — ML 예측과 설계 검증을 담당자 Review·변경 이력·재학습 Workflow로 연결.
-- **Design Validation & Automation** — 변경 영향 분석, Layout 검증, Missing Tag 검토 및 반복 설계 업무 자동화.
+- **Instrumentation & Control** — Control system architecture, logic design, instrument and package engineering, and HW/SW FAT.
+- **Engineering Data & Ontology** — Normalizing design data and connecting tags, equipment, drawings, documents, and alarms through a semantic layer.
+- **Applied AI / ML** — Connecting tag-level predictions and validation results with engineer review, change history, and retraining workflows.
+- **Design Validation & Automation** — Change impact analysis, layout validation, missing tag checks, and automation of repetitive engineering tasks.
 
 ---
 
@@ -35,9 +35,9 @@ DL이앤씨 · 플랜트사업본부 · 계장설계 엔지니어 / 사원 | **2
 
 ### 📊 Engineering Impact
 
-![Approximately 100000 tags integrated, 2200 instruments engineered, and 130 man-hours saved per month](./assets/engineering-impact.svg)
+![Approximately 100000 engineering tags integrated, 2200 instruments specified, and 130 man-hours saved per month](./assets/engineering-impact.svg)
 
-<sub>설계 데이터 약 10만 Tag 정규화·통합 / 계기 약 2,200대 Data Sheet 작성·사양 검토 / IM Requirement 자동화로 매월 130 MH 절감</sub>
+<sub>~100,000 tags normalized and integrated · ~2,200 instrument data sheets and specification reviews · 130 man-hours saved monthly through IM Requirement automation</sub>
 
 ---
 
@@ -45,31 +45,31 @@ DL이앤씨 · 플랜트사업본부 · 계장설계 엔지니어 / 사원 | **2
 
 #### 🔹 Engineering Ontology & AX Platform
 
-Palantir Foundry·Pipeline Builder–SQL–Streamlit을 연계해 약 10만 Tag를 Master Data로 통합했습니다. Object–Property–Relationship 기반 Semantic Layer로 Engineering Context를 구성하고, ML 예측·설계 검증·담당자 Review·변경 이력을 하나의 Workflow로 연결했습니다.
+Integrated approximately 100,000 engineering tags into master data using Palantir Foundry, Pipeline Builder, SQL, and Streamlit. Built an Object–Property–Relationship semantic layer to connect engineering context with ML predictions, validation results, engineer review, and change history.
 
 ![Engineering Ontology](./assets/project-ontology.svg)
 
 #### 🔹 ChangeImpactAnalyzer
 
-설계 변경에 따른 영향 범위를 검토하기 위한 변경 영향 분석 도구를 개발했습니다.
+Developed a tool to support the review of engineering changes and their potential impact.
 
 ![ChangeImpactAnalyzer](./assets/project-change-impact.svg)
 
 #### 🔹 Layout Validation
 
-설계 Layout의 정합성 확인을 지원하는 검증 도구를 개발했습니다.
+Developed a validation tool to support engineering layout consistency checks.
 
 ![Layout Validation](./assets/project-layout-validation.svg)
 
 #### 🔹 Missing Tag Checker
 
-설계 데이터의 Tag 누락과 불일치 검토를 지원하는 자동화 도구를 개발했습니다.
+Developed an automation tool to help identify missing tags and inconsistencies in engineering data.
 
 ![Missing Tag Checker](./assets/project-missing-tag.svg)
 
 #### 🔹 IM Requirement Automation
 
-IM Requirement 자동화 Tool을 개발해 반복 업무를 줄이고, VE 개선으로 매월 **130 MH**를 절감했습니다. Python 기반 Cable List 검토 및 P&ID 정규식 데이터 처리 등 설계 자동화 프로그램 개발과 IIS 기반 사내 배포를 수행했습니다.
+Developed an IM Requirement automation tool, saving **130 man-hours per month** through value engineering improvements. Additional automation work includes Python-based cable list checks, regex-based P&ID data processing, and internal application deployment through IIS.
 
 ![IM Requirement Automation](./assets/project-im-automation.svg)
 
@@ -77,48 +77,48 @@ IM Requirement 자동화 Tool을 개발해 반복 업무를 줄이고, VE 개선
 
 ### 🏗️ Engineering Experience
 
-**DL이앤씨 · 플랜트사업본부 · 계장설계 엔지니어 / 사원**<br>
-2023.01 — Present
+**DL E&C · Plant Business Division · Instrumentation & Control Engineer**<br>
+Jan 2023 — Present
 
-**Engineering Data 온톨로지 및 AX Platform 구축** · 2025.10 — Present<br>
-데이터 구조·관계 모델 설계 / ML 검증·운영 체계 구축 / 설계 자동화 프로그램 개발·배포
+**Engineering Data Ontology & AX Platform** · Oct 2025 — Present<br>
+Data and relationship modeling · ML validation and operations workflows · Engineering automation development and deployment
 
 <details>
-<summary><b>Engineering Data & AX 상세 경력</b></summary>
+<summary><b>Engineering Data & AX — Experience Details</b></summary>
 
-- Palantir Foundry·Pipeline Builder–SQL–Streamlit 연계로 약 10만 Tag의 설계 데이터를 Master Data로 정규화·통합.
-- Instrument, Equipment, P&ID, Data Sheet, Alarm을 독립 Entity로 정의하고 Object–Property–Relationship 기반 Semantic Layer 및 관계 모델 구축.
-- Tag 기준으로 설비·도면·문서·Alarm·변경 이력을 연결해 Engineering Context와 데이터 추적성 확보.
-- ML 예측·설계 검증 결과를 Tag 단위로 연결하고, 담당자 Review·변경 이력·재학습으로 이어지는 데이터 운영 Workflow 구축.
-- Python 기반 Cable List 검토, P&ID 정규식 데이터 처리 등 설계 자동화 프로그램 개발 및 IIS 기반 사내 배포.
-- IM Requirement 자동화 Tool 개발 및 VE 개선으로 매월 130 MH 절감.
+- Normalized and integrated approximately 100,000 engineering tags into master data by connecting Palantir Foundry, Pipeline Builder, SQL, and Streamlit.
+- Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities and built an Object–Property–Relationship semantic layer.
+- Connected tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
+- Linked ML predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
+- Developed Python automation for cable list review and regex-based P&ID data processing, and deployed applications internally through IIS.
+- Developed an IM Requirement automation tool, delivering value engineering improvements and saving 130 man-hours per month.
 
 </details>
 
-**S-OIL SHAHEEN · Amur Gas Chemical Complex (AGCC)** · 2023.01 — Present<br>
-제어시스템 Architecture·Logic 설계 / Instrument·Package 설계 / HW·SW FAT 및 Interface 검증
+**S-OIL SHAHEEN · Amur Gas Chemical Complex (AGCC)** · Jan 2023 — Present<br>
+Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
 <details>
-<summary><b>Instrumentation & Control 상세 경력</b></summary>
+<summary><b>Instrumentation & Control — Experience Details</b></summary>
 
 **Control System Architecture & Logic**
 
-- System Configuration 및 제어시스템 Architecture 설계·관리.
-- Logic Diagram 기반 Interlock, Alarm, Permissive, Timer, Sequence 설계·검증.
-- Field Instrument–Signal–I/O–Controller–Final Element의 Signal–Logic–Action 구조 설계 및 Interface 정합성 검토.
-- Schematic, Wiring Diagram, Location Plan, Hook-up 등 설계도서 검토 및 시스템 간 Interface 관리.
+- Designed and managed system configurations and control system architecture.
+- Designed and verified interlocks, alarms, permissives, timers, and sequences based on logic diagrams.
+- Designed Signal–Logic–Action structures spanning Field Instrument–Signal–I/O–Controller–Final Element, and reviewed interface consistency.
+- Reviewed schematics, wiring diagrams, location plans, and hook-ups, and managed interfaces between systems.
 
 **HW / SW FAT & Logic Validation**
 
-- 중국 벤더·러시아 발주처와 협업하여 제어시스템 HW/SW FAT 수행.
-- Control Builder 기반 SW 로직 테스트로 C&E·Logic Diagram 대비 Interlock, Alarm, Timer, Sequence 정상 동작 검증.
-- AI/AO 4–20 mA, DI/DO, 24 VDC, Continuity 등 I/O·HW 루프 테스트로 Field Signal부터 Controller까지 신호 경로 검증.
+- Performed control system HW/SW FAT in collaboration with Chinese vendors and the Russian client.
+- Tested software logic in Control Builder against C&E and logic diagrams to verify interlocks, alarms, timers, and sequences.
+- Verified field-to-controller signal paths through AI/AO 4–20 mA, DI/DO, 24 VDC, continuity, and I/O hardware loop tests.
 
 **Instrument & Package Engineering**
 
-- 온도·압력·유량·레벨 계기 약 2,200대 Data Sheet 작성 및 Process·설비 조건에 따른 사양 검토.
-- Pump/Filter Package 운전 조건, Start/Stop Sequence, Permissive, Interlock 및 Action 설계.
-- Package Equipment와 PLC/DCS 간 Signal List, I/O 및 제어 Interface 검토.
-- 벤더 도면·설계도서 간 사양, Signal, Logic, Interface 정합성 검증 및 설계 변경 관리.
+- Prepared data sheets and reviewed process- and equipment-based specifications for approximately 2,200 temperature, pressure, flow, and level instruments.
+- Designed operating conditions, start/stop sequences, permissives, interlocks, and actions for pump and filter packages.
+- Reviewed signal lists, I/O, and control interfaces between package equipment and PLC/DCS systems.
+- Verified specification, signal, logic, and interface consistency across vendor drawings and engineering documents, and managed design changes.
 
 </details>
