@@ -46,7 +46,7 @@ DL E&C · Plant Business Division | **Jan 2023 — Present**
 
 ![Approximately 100000 engineering tags integrated, 2200 instruments specified, and 130 man-hours saved per month](./assets/engineering-impact.svg)
 
-<sub>~100,000 tags normalized and integrated · ~2,200 instrument data sheets and specification reviews · 130 man-hours saved monthly through IM Requirement automation</sub>
+<sub>~100,000 tags normalized and integrated · ~2,200 instrument data sheets and specification reviews · 130 man-hours saved monthly through Missing Tag Checker automation</sub>
 
 ---
 
@@ -72,13 +72,13 @@ Developed a validation tool to support engineering layout consistency checks.
 
 #### 🔹 Missing Tag Checker
 
-Developed an automation tool to help identify missing tags and inconsistencies in engineering data.
+Developed Missing Tag Checker to identify missing tags and inconsistencies in engineering data, saving **130 man-hours per month** through value engineering improvements.
 
 ![Missing Tag Checker](./assets/project-missing-tag.svg)
 
 #### 🔹 IM Requirement Automation
 
-Developed an IM Requirement automation tool, saving **130 man-hours per month** through value engineering improvements. Additional automation work includes Python-based cable list checks, regex-based P&ID data processing, and internal application deployment through IIS.
+Developed an IM Requirement automation tool to streamline repetitive engineering tasks. Automation work includes Python-based cable list checks, regex-based P&ID data processing, and internal application deployment through IIS.
 
 ![IM Requirement Automation](./assets/project-im-automation.svg)
 
@@ -100,7 +100,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Connected tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
 - Linked ML predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
 - Developed Python automation for cable list review and regex-based P&ID data processing, and deployed applications internally through IIS.
-- Developed an IM Requirement automation tool, delivering value engineering improvements and saving 130 man-hours per month.
+- Developed Missing Tag Checker, delivering value engineering improvements and saving 130 man-hours per month.
 
 </details>
 
