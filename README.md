@@ -126,10 +126,10 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 
 **Control System Architecture & Logic**
 
-- Designed and managed system configurations and control system architecture.
-- Designed and verified interlocks, alarms, permissives, timers, and sequences based on logic diagrams.
-- Designed Signal–Logic–Action structures spanning Field Instrument–Signal–I/O–Controller–Final Element, and reviewed interface consistency.
-- Reviewed schematics, wiring diagrams, location plans, and hook-ups, and managed interfaces between systems.
+- Engineered and managed control system configurations and architecture.
+- Developed and verified interlocks, alarms, permissives, timers, and sequences based on logic diagrams.
+- Engineered Signal–Logic–Action structures spanning field instruments, signals, I/O, controllers, and final elements, and verified interface consistency.
+- Reviewed schematics, wiring diagrams, location plans, and hook-ups, and coordinated interfaces between systems.
 
 **HW / SW FAT & Logic Validation**
 
