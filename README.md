@@ -141,8 +141,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
   - Control Valve / On-Off Valve (Ball, Butterfly, Gate, Globe)
   - Flowmeter (Coriolis, Ultrasonic, Magnetic, Orifice Assembly)
   - Pressure Safety Valve (PSV)
-  - Level Gauge
-  - Pressure Gauge / Temperature Gauge
+  - Level Gauge / Pressure Gauge / Temperature Gauge
 - Designed operating conditions, start/stop sequences, permissives, interlocks, and actions for pump and filter packages.
 - Reviewed signal lists, I/O, and control interfaces between package equipment and PLC/DCS systems.
 - Verified specification, signal, logic, and interface consistency across vendor drawings and engineering documents, and managed design changes.
