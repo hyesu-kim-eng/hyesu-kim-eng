@@ -101,8 +101,8 @@ Jan 2023 — Present
 **Project Experience | Chemical & Petrochemical Plants**
 
 - **S-OIL SHAHEEN Project - Korea** | Feb 2023 - Jul 2024; ongoing FE support and business travel
-- **Amur Gas Chemical Complex (AGCC) Project - Russia** | Aug 2024 - Present
-- **ACK FEED Project - Japan** | Nov 2026 - Present
+- **AGCC (Amur Gas Chemical Complex) Project - Russia** | Aug 2024 - Present
+- **AKC (Asahi Kasei Corporation) Project - Japan** | Nov 2026 - Present
 
 Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
@@ -110,7 +110,7 @@ Control system architecture and logic · Instrument and package engineering · H
 Data and relationship modeling · ML validation and operations workflows · Engineering automation development and deployment
 
 <details>
-<summary><b>Engineering Data & AX — Experience Details</b></summary>
+<summary><b>Engineering Data & AX</b></summary>
 
 - Standardized and integrated approximately 100,000 engineering tags into master data using Palantir Foundry, Pipeline Builder, and SQL, with Streamlit, C#, and JavaScript applications supporting engineering data workflows.
 - Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities in an Object–Property–Relationship semantic layer, linking tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
@@ -120,7 +120,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 </details>
 
 <details>
-<summary><b>Instrumentation & Control — Experience Details</b></summary>
+<summary><b>Instrumentation & Control</b></summary>
 
 **Control System Architecture & Logic**
 
