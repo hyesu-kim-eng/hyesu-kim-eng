@@ -129,9 +129,9 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Engineered Signal–Logic–Action structures spanning field instruments, signals, I/O, controllers, and final elements, and verified interface consistency.
 - Reviewed schematics, wiring diagrams, location plans, and hook-ups, and coordinated interfaces between systems.
 
-**HW / SW FAT & Logic Validation**
+**HW / SW FAT & Logic Validation | Tianjin, China**
 
-- Performed control system HW/SW FAT in Tianjin, China, in collaboration with Chinese vendors and the Russian client.
+- Performed control system HW/SW FAT in collaboration with Chinese vendors and the Russian client.
 - Tested software logic in Control Builder against C&E and logic diagrams to verify interlocks, alarms, timers, and sequences.
 - Verified field-to-controller signal paths through AI/AO 4–20 mA, DI/DO, 24 VDC, continuity, and I/O hardware loop tests.
 
