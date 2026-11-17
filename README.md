@@ -102,7 +102,7 @@ Jan 2023 — Present
 
 - **S-OIL SHAHEEN Project - Korea** | Feb 2023 - Jul 2024; ongoing FE support and business travel
 - **AGCC (Amur Gas Chemical Complex) Project - Russia** | Aug 2024 - Present
-- **AKC (Asahi Kasei Corporation) Project - Japan** | Nov 2026 - Present
+- **AKC MMA/PMMA (Asahi Kasei Corporation) Project - Japan** | Nov 2026 - Present
 
 Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
