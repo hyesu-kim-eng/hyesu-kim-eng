@@ -83,6 +83,8 @@ Built an AI-assisted desktop tool for preparing Instrument Indexes from chemical
 **Python / Tkinter / Vision API / Excel & PDF Automation**<br>
 Prototype with 25 automated tests; live AI extraction accuracy has not yet been evaluated. Company drawings, workbooks, and tag data are excluded from shared source packages.
 
+![ACK Project Instrument Index Agent](./assets/project-ack-index-agent.svg)
+
 #### 🔹 IM Requirement Automation
 
 Developed an IM Requirement automation tool to streamline repetitive engineering tasks. Automation work includes Python-based cable list checks, regex-based P&ID data processing, and internal application deployment through IIS.
@@ -98,9 +100,9 @@ Jan 2023 — Present
 
 **Project Experience | Chemical & Petrochemical Plants**
 
-- **S-OIL SHAHEEN**
-- **Amur Gas Chemical Complex (AGCC)**
-- **ACK FEED Project**
+- **S-OIL SHAHEEN Project - Korea**
+- **Amur Gas Chemical Complex (AGCC) Project - Russia**
+- **ACK FEED Project - Japan**
 
 Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
