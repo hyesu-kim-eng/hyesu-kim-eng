@@ -112,7 +112,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 <details>
 <summary><b>Engineering Data & AX</b></summary>
 
-- Standardized and integrated approximately 100,000 engineering tags into master data using Palantir Foundry, Pipeline Builder, and SQL, with Streamlit, C#, and JavaScript applications supporting engineering data workflows.
+- Built an engineering ontology based on instrumentation design data to standardize and integrate approximately 100,000 engineering tags, and developed applications using Palantir Foundry, SQL, Streamlit, C#, and JavaScript to automate data-driven engineering workflows.
 - Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities in an Object–Property–Relationship semantic layer, linking tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
 - Linked Machine learning predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
 - Developed control and instrumentation engineering automation tools, including ChangeImpactAnalyzer, Layout Validation, Missing Tag Checker, IM Requirement Automation, and ACK Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
