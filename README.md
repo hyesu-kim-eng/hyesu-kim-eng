@@ -76,6 +76,13 @@ Developed Missing Tag Checker to identify missing tags and inconsistencies in en
 
 ![Missing Tag Checker](./assets/project-missing-tag.svg)
 
+#### 🔹 ACK Project Instrument Index Agent
+
+Built an AI-assisted desktop tool for preparing Instrument Indexes from chemical and petrochemical plant PFDs. Supports continuous tag numbering across pages, controller-valve serial matching, engineer review of symbols and line sizes, and export to tagged PDFs and the existing Excel index format.
+
+**Python / Tkinter / Vision API / Excel & PDF Automation**<br>
+Prototype with 25 automated tests; live AI extraction accuracy has not yet been evaluated. Company drawings, workbooks, and tag data are excluded from shared source packages.
+
 #### 🔹 IM Requirement Automation
 
 Developed an IM Requirement automation tool to streamline repetitive engineering tasks. Automation work includes Python-based cable list checks, regex-based P&ID data processing, and internal application deployment through IIS.
@@ -88,6 +95,14 @@ Developed an IM Requirement automation tool to streamline repetitive engineering
 
 **DL E&C · Plant Business Division · Instrumentation & Control Engineer**<br>
 Jan 2023 — Present
+
+**Project Experience | Chemical & Petrochemical Plants**
+
+- **S-OIL SHAHEEN**
+- **Amur Gas Chemical Complex (AGCC)**
+- **ACK FEED Project**
+
+Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
 **Engineering Data Ontology & AX Platform** · Oct 2025 — Present<br>
 Data and relationship modeling · ML validation and operations workflows · Engineering automation development and deployment
@@ -103,9 +118,6 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Developed Missing Tag Checker, delivering value engineering improvements and saving 130 man-hours per month.
 
 </details>
-
-**S-OIL SHAHEEN · Amur Gas Chemical Complex (AGCC)** · Jan 2023 — Present<br>
-Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
 <details>
 <summary><b>Instrumentation & Control — Experience Details</b></summary>
