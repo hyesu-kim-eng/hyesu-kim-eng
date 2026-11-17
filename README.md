@@ -64,11 +64,11 @@ Developed a tool to support the review of engineering changes and their potentia
 
 ![Change Impact Analyzer](./assets/project-change-impact.svg)
 
-#### 🔹 Layout Validation
+#### 🔹 Instrument Layout Validation
 
-Developed a validation tool to support engineering layout consistency checks.
+Developed a tool to compare and review engineering drawings, including instrument layouts and secondary cable layouts, to identify inconsistencies across drawings.
 
-![Layout Validation](./assets/project-layout-validation.svg)
+![Instrument Layout Validation](./assets/project-layout-validation.svg)
 
 #### 🔹 Missing Tag Checker
 
@@ -115,7 +115,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Built an engineering ontology based on instrumentation design data to standardize and integrate approximately 100,000 engineering tags, and developed applications using Palantir Foundry, SQL, Streamlit, C#, and JavaScript to automate data-driven engineering workflows.
 - Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities in an Object–Property–Relationship semantic layer, linking tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
 - Linked Machine learning predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
-- Developed control and instrumentation engineering automation tools, including Change Impact Analyzer, Layout Validation, Missing Tag Checker, IM Requirement Automation, and AKC Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
+- Developed control and instrumentation engineering automation tools, including Change Impact Analyzer, Instrument Layout Validation, Missing Tag Checker, IM Requirement Automation, and AKC Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
 
 </details>
 
