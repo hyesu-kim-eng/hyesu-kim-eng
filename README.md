@@ -76,14 +76,14 @@ Developed Missing Tag Checker to identify missing tags and inconsistencies in en
 
 ![Missing Tag Checker](./assets/project-missing-tag.svg)
 
-#### 🔹 ACK Project Instrument Index Agent
+#### 🔹 AKC Project Instrument Index Agent
 
 Built an AI-assisted desktop tool for preparing Instrument Indexes from chemical and petrochemical plant PFDs. Supports continuous tag numbering across pages, controller-valve serial matching, engineer review of symbols and line sizes, and export to tagged PDFs and the existing Excel index format.
 
 **Python / Tkinter / Vision API / Excel & PDF Automation**<br>
-Prototype with 25 automated tests; live AI extraction accuracy has not yet been evaluated. Company drawings, workbooks, and tag data are excluded from shared source packages.
+Prototype with 25 automated tests; live AI extraction accuracy has not yet been evaluated.
 
-![ACK Project Instrument Index Agent](./assets/project-ack-index-agent.svg)
+![AKC Project Instrument Index Agent](./assets/project-ack-index-agent.svg)
 
 #### 🔹 IM Requirement Automation
 
@@ -115,7 +115,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Built an engineering ontology based on instrumentation design data to standardize and integrate approximately 100,000 engineering tags, and developed applications using Palantir Foundry, SQL, Streamlit, C#, and JavaScript to automate data-driven engineering workflows.
 - Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities in an Object–Property–Relationship semantic layer, linking tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
 - Linked Machine learning predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
-- Developed control and instrumentation engineering automation tools, including ChangeImpactAnalyzer, Layout Validation, Missing Tag Checker, IM Requirement Automation, and ACK Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
+- Developed control and instrumentation engineering automation tools, including ChangeImpactAnalyzer, Layout Validation, Missing Tag Checker, IM Requirement Automation, and AKC Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
 
 </details>
 
