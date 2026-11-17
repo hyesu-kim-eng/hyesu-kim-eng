@@ -2,7 +2,7 @@
 
 ![Tag-to-controller signal path and an engineering ontology, illustrated in lavender pixel art](./assets/engineering-banner.svg)
 
-**Instrumentation & Control Engineer · Engineering Data & AI**<br>
+**Instrumentation & Control Engineer | Engineering Automation, Data & AI**<br>
 Connecting instrumentation and control engineering with data, AI, and practical automation.<br>
 DL E&C · Plant Business Division | **Jan 2023 — Present**
 
