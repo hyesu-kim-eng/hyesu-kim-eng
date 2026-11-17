@@ -1,6 +1,6 @@
 # Hi, I'm Hyesu Kim 👋
 
-![Tag-to-controller signal path and an engineering ontology, illustrated in lavender pixel art](./assets/engineering-banner.svg)
+![Tag-to-controller signal path and an engineering ontology, illustrated in lavender pixel art](./assets/engineering-ontology-banner.svg)
 
 **Instrumentation & Control Engineer | Engineering Automation, Data & AI**<br>
 Connecting instrumentation and control engineering with data, AI, and practical automation.<br>
