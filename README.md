@@ -100,9 +100,9 @@ Jan 2023 — Present
 
 **Project Experience | Chemical & Petrochemical Plants**
 
-- **S-OIL SHAHEEN Project - Korea**
-- **Amur Gas Chemical Complex (AGCC) Project - Russia**
-- **ACK FEED Project - Japan**
+- **S-OIL SHAHEEN Project - Korea** | Feb 2023 - Jul 2024; ongoing FE support and business travel
+- **Amur Gas Chemical Complex (AGCC) Project - Russia** | Aug 2024 - Present
+- **ACK FEED Project - Japan** | Nov 2026 - Present
 
 Control system architecture and logic · Instrument and package engineering · HW/SW FAT and interface verification
 
@@ -131,7 +131,7 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 
 **HW / SW FAT & Logic Validation**
 
-- Performed control system HW/SW FAT in collaboration with Chinese vendors and the Russian client.
+- Performed control system HW/SW FAT in Tianjin, China, in collaboration with Chinese vendors and the Russian client.
 - Tested software logic in Control Builder against C&E and logic diagrams to verify interlocks, alarms, timers, and sequences.
 - Verified field-to-controller signal paths through AI/AO 4–20 mA, DI/DO, 24 VDC, continuity, and I/O hardware loop tests.
 
