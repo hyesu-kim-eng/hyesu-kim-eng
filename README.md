@@ -137,12 +137,12 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 
 **Instrument & Package Engineering**
 
-- Prepared data sheets and reviewed process- and equipment-based specifications for approximately 2,200 temperature, pressure, flow, and level instruments.
-  - Control valves and on-off valves; valve types covered include ball, butterfly, gate, and globe valves.
-  - Flowmeters: Coriolis, ultrasonic, and magnetic flowmeters, and orifice assemblies.
-  - Pressure safety valves (PSVs).
-  - Level gauges.
-  - Pressure gauges and temperature gauges.
+- Executed MR (Material Requisition), TBE (Technical Bid Evaluation), and PR (Purchase Requisition) activities for approximately 2,200 instrumentation items.
+  - Control Valve / On-Off Valve (Ball, Butterfly, Gate, Globe)
+  - Flowmeter (Coriolis, Ultrasonic, Magnetic, Orifice Assembly)
+  - Pressure Safety Valve (PSV)
+  - Level Gauge
+  - Pressure Gauge / Temperature Gauge
 - Designed operating conditions, start/stop sequences, permissives, interlocks, and actions for pump and filter packages.
 - Reviewed signal lists, I/O, and control interfaces between package equipment and PLC/DCS systems.
 - Verified specification, signal, logic, and interface consistency across vendor drawings and engineering documents, and managed design changes.
