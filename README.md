@@ -54,7 +54,7 @@ DL E&C · Plant Business Division | **Jan 2023 — Present**
 
 #### 🔹 Engineering Ontology & AX Platform
 
-Integrated approximately 100,000 engineering tags into master data using Palantir Foundry, Pipeline Builder, SQL, and Streamlit. Built an Object–Property–Relationship semantic layer to connect engineering context with ML predictions, validation results, engineer review, and change history.
+Built an engineering ontology and knowledge graph integrating approximately 100,000 engineering tags using Palantir Foundry, Pipeline Builder, SQL, and Streamlit. Connected instruments, equipment, drawings, documents, and alarms through an Object–Property–Relationship semantic layer, enabling Object 360° views, signal path tracing, and Cause & Effect (C&E) validation. Linked machine learning predictions and engineering validation results with engineer review and change history to support traceable engineering decisions.
 
 ![Engineering Ontology](./assets/project-ontology.svg)
 
