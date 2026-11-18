@@ -109,18 +109,15 @@ Control system architecture and logic · Instrument and package engineering · H
 **Engineering Data Ontology & AX Platform** · Oct 2025 — Present<br>
 Data and relationship modeling · ML validation and operations workflows · Engineering automation development and deployment
 
-<details>
-<summary><b>Engineering Data & AX</b></summary>
+#### Engineering Data & AX
 
 - Built an engineering ontology based on instrumentation design data to standardize and integrate approximately 100,000 engineering tags, and developed applications using Palantir Foundry, SQL, Streamlit, C#, and JavaScript to automate data-driven engineering workflows.
 - Defined Instrument, Equipment, P&ID, Data Sheet, and Alarm as independent entities in an Object–Property–Relationship semantic layer, linking tags with equipment, drawings, documents, alarms, and change history to establish engineering context and data traceability.
 - Linked Machine learning predictions and design validation results at tag level with engineer review, change history, and retraining workflows.
 - Developed control and instrumentation engineering automation tools, including Change Impact Analyzer, Instrument Layout Validation, Missing Tag Checker, IM Requirement Automation, and AKC Project Instrument Index Agent, covering change impact review, layout consistency checks, missing tag detection, engineering requirement workflows, and AI-assisted PFD-to-Instrument Index preparation.
 
-</details>
 
-<details>
-<summary><b>Instrumentation & Control</b></summary>
+#### Instrumentation & Control
 
 **Control System Architecture & Logic**
 
@@ -146,4 +143,3 @@ Data and relationship modeling · ML validation and operations workflows · Engi
 - Reviewed signal lists, I/O, and control interfaces between package equipment and PLC/DCS systems.
 - Verified specification, signal, logic, and interface consistency across vendor drawings and engineering documents, and managed design changes.
 
-</details>
