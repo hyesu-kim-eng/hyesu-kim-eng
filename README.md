@@ -44,9 +44,9 @@ DL E&C · Plant Business Division | **Jan 2023 — Present**
 
 ### 📊 Engineering Impact
 
-![Approximately 100000 engineering tags integrated, 2200 instruments specified, and 130 man-hours saved per month](./assets/engineering-impact.svg)
+![Approximately 100000 engineering tags integrated, 2200 instruments specified, and 128 man-hours saved per month](./assets/engineering-impact.svg)
 
-<sub>~100,000 tags normalized and integrated · ~2,200 instrument data sheets and specification reviews · 130 man-hours saved monthly through Missing Tag Checker automation</sub>
+<sub>~100,000 tags normalized and integrated · ~2,200 instrument data sheets and specification reviews · 128 man-hours saved monthly through Missing Tag Checker automation</sub>
 
 ---
 
@@ -66,13 +66,13 @@ Developed a tool to support the review of engineering changes and their potentia
 
 #### 🔹 Instrument Layout Validation
 
-Developed a tool to compare and review engineering drawings, including instrument layouts and secondary cable layouts, to identify inconsistencies across drawings.
+Developed a tool to compare and review engineering drawings, including instrument layouts and secondary cable layouts, to identify inconsistencies across drawings, saving **15 man-hours per month**.
 
 ![Instrument Layout Validation](./assets/project-layout-validation.svg)
 
 #### 🔹 Missing Tag Checker
 
-Developed Missing Tag Checker to identify missing tags and inconsistencies in engineering data, saving **130 man-hours per month** through value engineering improvements.
+Developed Missing Tag Checker to identify missing tags and inconsistencies in engineering data, saving **128 man-hours per month** through value engineering improvements.
 
 ![Missing Tag Checker](./assets/project-missing-tag.svg)
 
